@@ -1,0 +1,73 @@
+,business_name,category,ratings,years_open,phone_number,full_address,street_address,city,price,stars,num_reviews
+0,The Spinnaker - Sausalito,"['Restaurants', 'Banquet Halls & Reception Facilities']","{'rating': '4.0', 'count': '17'}",63,(510) 768-8354,"100 Spinnaker Dr, Sausalito, CA 94965",3211 Grand Ave,"Oakland, CA 94610",$,4.0,17
+1,Yang Chow Restaurant,"['Restaurants', 'Asian Restaurants', 'Take Out Restaurants']","{'rating': '4.5', 'count': '8'}",3,(510) 465-4629,"100 Spinnaker Dr, Sausalito, CA 94965",3232 Grand Ave.,"Oakland, CA 94610",$,4.5,8
+2,Hunan  Village,"['Restaurants', 'Asian Restaurants', 'Take Out Restaurants']","{'rating': '', 'count': ''}",48,(510) 444-3456,"7986 Tesla Rd, Livermore, CA 94550",2 Broadway,"Oakland, CA 94607",$$,0.0,0
+3,Scott's Seafood Jack London Square,"['Restaurants', 'Wedding Supplies & Services', 'American Restaurants']","{'rating': '4.0', 'count': '54'}",14,(510) 654-2681,"601 Main St, Martinez, CA 94553",4218 Piedmont Ave,"Oakland, CA 94611",$$,4.0,54
+4,Xyclo Restaurant,"['Restaurants', 'Vietnamese Restaurants', 'Family Style Restaurants']","{'rating': '4.0', 'count': '101'}",37,(510) 652-3676,"601 Main St, Martinez, CA 94553",4293 Piedmont Ave,"Oakland, CA 94611",$$,4.0,101
+5,Dopo,"['Restaurants', 'Italian Restaurants', 'Take Out Restaurants']","{'rating': '4.0', 'count': '127'}",2,(510) 653-3902,"5989 Mowry Ave., Newark, CA 94560",3859 Piedmont Ave,"Oakland, CA 94611",$$$$,4.0,127
+6,Commis,"['Restaurants', 'American Restaurants', 'Family Style Restaurants']","{'rating': '', 'count': ''}",47,(510) 286-0100,"3232 Grand Ave., Oakland, CA 94610",1900 Telegraph Ave,"Oakland, CA 94612",$$,0.0,0
+7,Flora,"['Restaurants', 'American Restaurants']","{'rating': '', 'count': ''}",26,(510) 547-3444,"3211 Grand Ave, Oakland, CA 94610",4001 Piedmont Ave,"Oakland, CA 94611",$$,0.0,0
+8,Gregoire Restaurant,"['Restaurants', 'Family Style Restaurants', 'Take Out Restaurants']","{'rating': '', 'count': ''}",24,(510) 985-0990,"1320 19th Hole Dr, Windsor, CA 95492",4184 Piedmont Ave,"Oakland, CA 94611",$$,0.0,0
+9,Park Avenue Bar & Grill,"['Restaurants', 'Barbecue Restaurants', 'Bars']","{'rating': '4.0', 'count': '51'}",11,(510) 272-9110,"2301 E Washington St, Petaluma, CA 94954",827 Washington St,"Oakland, CA 94607",$$,4.0,51
+10,District,"['Restaurants', 'American Restaurants', 'Bars']","{'rating': '', 'count': ''}",17,(510) 655-6469,"1 Clubhouse Memorial Rd, Alameda, CA 94502",5478 College Ave,"Oakland, CA 94618",$$,0.0,0
+11,A Cote Restaurant,"['Restaurants', 'Family Style Restaurants', 'French Restaurants']","{'rating': '4.0', 'count': '93'}",21,(510) 655-7180,"5200 Claremont Ave, Oakland, CA 94618",4162 Piedmont Ave,"Oakland, CA 94611",$,4.0,93
+12,Barney's Gourmet Hamburgers,"['Restaurants', 'Hamburgers & Hot Dogs', 'American Restaurants']","{'rating': '4.0', 'count': '13'}",20,(510) 482-4701,,4207 Park Blvd,"Oakland, CA 94602",$,4.0,13
+13,Pastino's Pasta & Pizza,"['Restaurants', 'Pizza', 'Caterers']","{'rating': '4.0', 'count': '24'}",11,(510) 547-2252,,4070 Piedmont Ave,"Oakland, CA 94611",$$,4.0,24
+14,Baja Taqueria,"['Restaurants', 'Mexican Restaurants', 'Restaurant Delivery Service']","{'rating': '', 'count': ''}",23,(510) 832-7661,,701 Webster St,"Oakland, CA 94607",$$,0.0,0
+15,Gourmet Delight Restaurant,"['Restaurants', 'Family Style Restaurants', 'Take Out Restaurants']","{'rating': '4.0', 'count': '124'}",45,(510) 450-0522,,5004 Telegraph Ave,"Oakland, CA 94609",$$,4.0,124
+16,Dona Tomas,"['Restaurants', 'Mexican Restaurants', 'Family Style Restaurants']","{'rating': '4.5', 'count': '2'}",35,(510) 261-3325,,1457 Fruitvale Ave,"Oakland, CA 94601",$$,4.5,2
+17,El Grullense Restaurant,"['Restaurants', 'Family Style Restaurants', 'Mexican Restaurants']","{'rating': '4.0', 'count': '68'}",32,(510) 985-1200,,4039 Piedmont Ave,"Oakland, CA 94611",$$,4.0,68
+18,Bar Cesar,"['Restaurants', 'Tapas', 'Bars']","{'rating': '', 'count': ''}",20,(510) 635-3295,,405 Hegenberger Rd,"Oakland, CA 94621",$$,0.0,0
+19,Carrows,"['Restaurants', 'American Restaurants', 'Family Style Restaurants']","{'rating': '4.5', 'count': '23'}",24,(510) 601-6441,,4066 Piedmont Ave,"Oakland, CA 94611",$$$,4.5,23
+20,Ninna Restaurant,"['Restaurants', 'Take Out Restaurants', 'Family Style Restaurants']","{'rating': '', 'count': ''}",22,(510) 569-4808,,433 Hegenberger Rd Ste B,"Oakland, CA 94621",$$,0.0,0
+21,Le Bistro Restaurant,"['Restaurants', 'Continental Restaurants', 'French Restaurants']","{'rating': '', 'count': ''}",16,(510) 763-0300,,3425 Grand Ave,"Oakland, CA 94610",$,0.0,0
+22,Milano Restaurant Oakland,"['Restaurants', 'Family Style Restaurants']","{'rating': '4.0', 'count': '68'}",24,(510) 482-8094,,2220 Mountain Blvd,"Oakland, CA 94611",$,4.0,68
+23,Italian Colors,"['Restaurants', 'Italian Restaurants', 'Caterers']","{'rating': '4.5', 'count': '143'}",40,(510) 336-1180,,4238 Park Blvd,"Oakland, CA 94602",$$,4.5,143
+24,Bellanico,"['Restaurants', 'Italian Restaurants']","{'rating': '5.0', 'count': '1'}",30,(510) 533-4441,,3800 San Leandro St,"Oakland, CA 94601",$,5.0,1
+25,4 Caminos Restaurant,"['Restaurants', 'Family Style Restaurants']","{'rating': '', 'count': ''}",16,(510) 382-9255,,8418 International Blvd,"Oakland, CA 94621",$,0.0,0
+26,San Francisco Restaurant,"['Restaurants', 'Family Style Restaurants']","{'rating': '4.0', 'count': '5'}",27,(510) 777-1200,,6637 Bancroft Ave,"Oakland, CA 94605",$$,4.0,5
+27,Genny's BBQ,"['Restaurants', 'Barbecue Restaurants']","{'rating': '4.5', 'count': '467'}",24,(510) 654-6607,,6317 College Ave,"Oakland, CA 94618",$,4.5,467
+28,Wood Tavern,"['Restaurants', 'American Restaurants', 'Bars']","{'rating': '4.5', 'count': '910'}",16,(510) 658-7000,,4226 Piedmont Ave,"Oakland, CA 94611",$,4.5,910
+29,Fentons Creamery & Restaurant,"['Restaurants', 'American Restaurants', 'Family Style Restaurants']","{'rating': '4.5', 'count': '6'}",101,(866) 295-9853,,55 Webster St Ste 66-055,"Oakland, CA 94607",$$,4.5,6
+30,Jack London Square,"['Restaurants', 'Seafood Restaurants', 'French Restaurants']","{'rating': '', 'count': ''}",0,(510) 654-5033,,3766 Piedmont Ave,"Oakland, CA 94611",$$,0.0,0
+31,The Spinnaker - Sausalito,"['Restaurants', 'Banquet Halls & Reception Facilities']","{'rating': '4.5', 'count': '176'}",0,(510) 985-1213,,5098 Telegraph Ave,"Oakland, CA 94609",$,4.5,176
+32,Garre Winery,"['Restaurants', 'Wineries', 'Party & Event Planners', 'Wedding Chapels & Ceremonies', 'Wine']","{'rating': '4.0', 'count': '6'}",0,(510) 531-9999,,1500 Leimert Blvd,"Oakland, CA 94602",$$,4.0,6
+33,Slow Hand BBQ,"['Restaurants', 'Barbecue Restaurants', 'Bar & Grills', 'Caterers', 'Bars', 'Sports Bars']","{'rating': '', 'count': ''}",0,(510) 531-2424,,2531 Macarthur Blvd,"Oakland, CA 94602",$$,0.0,0
+34,Slow Hand BBQ,"['Restaurants', 'Barbecue Restaurants', 'Bar & Grills', 'Caterers', 'Bars', 'Sports Bars']","{'rating': '4.5', 'count': '14'}",0,(510) 530-0681,,2033 Macarthur Blvd,"Oakland, CA 94602",$$,4.5,14
+35,Ray's Crab Shack,"['Restaurants', 'Seafood Restaurants', 'Creole & Cajun Restaurants', 'Fine Dining Restaurants']","{'rating': '3.5', 'count': '19'}",0,(510) 652-9678,,4080 Piedmont Ave,"Oakland, CA 94611",$$,3.5,19
+36,Hunan  Village,"['Restaurants', 'Take Out Restaurants', 'Chinese Restaurants', 'Caterers', 'Asian Restaurants']","{'rating': '', 'count': ''}",0,(510) 655-3929,,5352 College Ave,"Oakland, CA 94618",$$,0.0,0
+37,Yang Chow Restaurant,"['Restaurants', 'Take Out Restaurants', 'Chinese Restaurants', 'Restaurant Delivery Service']","{'rating': '', 'count': ''}",0,(510) 328-1838,,1416 Fruitvale Ave,"Oakland, CA 94601",$$,0.0,0
+38,Charlie's Restaurants,"['Restaurants', 'Banquet Halls & Reception Facilities', 'Wedding Chapels & Ceremonies']","{'rating': '', 'count': ''}",0,(510) 534-3752,,3340 E 12th St suit 11,"Oakland, CA 94601",$,0.0,0
+39,Rooster Run Event Ctr,"['Restaurants', 'Banquet Halls & Reception Facilities', 'Halls, Auditoriums & Ballrooms']","{'rating': '4.0', 'count': '185'}",0,(510) 268-3200,,66 Franklin St Ste 100,"Oakland, CA 94607",$$,4.0,185
+40,Jim's On the Course,"['Restaurants', 'Taverns', 'American Restaurants', 'Breakfast, Brunch & Lunch Restaurants']","{'rating': '3.5', 'count': '45'}",0,(510) 658-2300,,5316 College Ave,"Oakland, CA 94618",$$,3.5,45
+41,Red Sea Restaurant,"['Restaurants', 'African Restaurants', 'Seafood Restaurants', 'Family Style Restaurants']","{'rating': '4.0', 'count': '31'}",0,(510) 338-6789,,2204 Broadway,"Oakland, CA 94612",$$,4.0,31
+42,China Garlic Restaurant,"['Restaurants', 'Chinese Restaurants', 'Seafood Restaurants']","{'rating': '3.5', 'count': '249'}",0,(510) 208-5253,,1520 Lakeside Dr,"Oakland, CA 94612",$,3.5,249
+43,Bakesale Betty,"['Restaurants', 'American Restaurants', 'Take Out Restaurants']","{'rating': '', 'count': ''}",0,(510) 653-5350,,4799 Telegraph Ave,"Oakland, CA 94609",$,0.0,0
+44,Red Boy Pizza,"['Restaurants', 'Pizza', 'Italian Grocery Stores']","{'rating': '4.5', 'count': '22'}",0,(510) 250-6005,,5655 College Ave,"Oakland, CA 94618",$,4.5,22
+45,Jade Palace Chinese Kitchen,"['Restaurants', 'Chinese Restaurants', 'Asian Restaurants']","{'rating': '4.0', 'count': '208'}",0,(510) 763-8495,,1007 Clay St,"Oakland, CA 94607",,4.0,208
+46,Flower Lounge Restaurant,"['Restaurants', 'Chinese Restaurants', 'Caterers']","{'rating': '4.5', 'count': '9'}",0,(510) 419-0622,,2022 Telegraph Ave,"Oakland, CA 94612",,4.5,9
+47,Holly's Mandarin,"['Restaurants', 'Chinese Restaurants', 'Caterers']","{'rating': '4.0', 'count': '77'}",0,(510) 835-1176,,301 Franklin St,"Oakland, CA 94607",,4.0,77
+48,McNally Irish Pub,"['Restaurants', 'Irish Restaurants', 'Bars']","{'rating': '2.5', 'count': '2'}",0,(510) 451-4555,,2817 Telegraph Ave,"Oakland, CA 94609",,2.5,2
+49,El Tapatio Restaurant,"['Restaurants', 'Family Style Restaurants']","{'rating': '4.0', 'count': '24'}",0,(510) 251-1657,,211 Foothill Blvd,"Oakland, CA 94606",,4.0,24
+50,Taco Grill,"['Restaurants', 'Mexican Restaurants', 'Take Out Restaurants']","{'rating': '4.5', 'count': '2'}",0,(510) 451-6888,,720 International Blvd,"Oakland, CA 94606",,4.5,2
+51,Forge Handcrafted Pizza,"['Restaurants', 'Pizza', 'American Restaurants']","{'rating': '4.5', 'count': '26'}",0,(510) 420-8889,,3401 Telegraph Ave,"Oakland, CA 94609",,4.5,26
+52,Khana Peena,"['Restaurants', 'Indian Restaurants', 'Middle Eastern Restaurants']","{'rating': '', 'count': ''}",0,(510) 658-9040,,4701 Telegraph Ave,"Oakland, CA 94609",,0.0,0
+53,Ike's Love & Sandwiches,"['Restaurants', 'American Restaurants', 'Take Out Restaurants']","{'rating': '', 'count': ''}",0,(510) 328-1458,,2211 International Blvd,"Oakland, CA 94606",,0.0,0
+54,Lake Chalet,"['Restaurants', 'Seafood Restaurants', 'American Restaurants']","{'rating': '4.0', 'count': '17'}",0,(510) 595-7388,,5335 College Ave Ste 2,"Oakland, CA 94618",,4.0,17
+55,Lanesplitter,"['Restaurants', 'Pizza', 'Italian Restaurants']","{'rating': '4.5', 'count': '55'}",0,(510) 654-0100,,6311 College Ave,"Oakland, CA 94618",,4.5,55
+56,Market Hall Foods,"['Restaurants', 'French Restaurants', 'American Restaurants']","{'rating': '4.0', 'count': '81'}",0,(510) 339-9554,,6126 Medau Pl,"Oakland, CA 94611",,4.0,81
+57,Le Cheval,"['Restaurants', 'Vietnamese Restaurants', 'Family Style Restaurants']","{'rating': '5.0', 'count': '1'}",0,(510) 482-1255,,4014 Macarthur Blvd,"Oakland, CA 94619",,5.0,1
+58,Hutch Bar & Kitchen,"['Restaurants', 'Barbecue Restaurants', 'Caterers']","{'rating': '', 'count': ''}",0,(510) 531-1415,,4100 Redwood Rd,"Oakland, CA 94619",,0.0,0
+59,Oakland Grill,"['Restaurants', 'American Restaurants', 'Breakfast, Brunch & Lunch Restaurants']","{'rating': '', 'count': ''}",0,(510) 568-3050,,6807 Foothill Blvd,"Oakland, CA 94605",,0.0,0
+60,Louisiana Fish & Chips,"['Restaurants', 'Seafood Restaurants', 'Take Out Restaurants']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+61,Rockin Crawfish,"['Restaurants', 'Seafood Restaurants', 'Fish & Seafood Markets']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+62,Pho Hoa Lao Restaurant,"['Restaurants', 'Vietnamese Restaurants', 'Asian Restaurants']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+63,Taste of Denmark,"['Restaurants', 'American Restaurants', 'Caterers']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+64,Pyung Chang Restaurante,"['Restaurants', 'Korean Restaurants', 'Asian Restaurants']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+65,Queens Cajun Seafood,"['Restaurants', 'Seafood Restaurants', 'Fish & Seafood Markets']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+66,Rikyu Japanese Restaurant,"['Restaurants', 'Japanese Restaurants', 'Family Style Restaurants']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+67,Southie,"['Restaurants', 'American Restaurants', 'Sandwich Shops']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+68,Montclair Egg Shop,"['Restaurants', 'American Restaurants', 'Breakfast, Brunch & Lunch Restaurants']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+69,1 Seafood & Chicken Restaurant,"['Restaurants', 'Seafood Restaurants', 'Fish & Seafood Markets']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+70,Hunan Yuan Restaurant,"['Restaurants', 'Family Style Restaurants', 'Chinese Restaurants']","{'rating': None, 'count': None}",0,,,,,,0.0,0
+71,Fong's Cafe,"['Restaurants', 'Coffee Shops', 'American Restaurants']","{'rating': None, 'count': None}",0,,,,,,0.0,0
