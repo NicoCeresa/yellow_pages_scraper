@@ -15,7 +15,7 @@
 **scraper_v1.py**
 - My first attempt at a scraper
 - Very unorganized but I keep it in to show alternate ideas to do something like this
-</br>
+
 **scraper_v2.py**
 - My working scraper
 - Prettier and more functional than scraper_v1 probably will ever be
