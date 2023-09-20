@@ -1,5 +1,6 @@
 # Yellow Pages Restaurant Scraper
-***https://www.yellowpages.com/oakland-ca/restaurants***
+
+**https://www.yellowpages.com/oakland-ca/restaurants**
 
 ## How to run
 - Download files
