@@ -1,5 +1,6 @@
 import csv
 import requests
+from transform import Transform
 from bs4 import BeautifulSoup
 from itertools import zip_longest
 
@@ -115,3 +116,7 @@ with open(csv_file, mode="w", newline="") as file:
     csv_writer.writerows(rows)
 
 print(f"Data has been exported to {csv_file}")
+
+print("Cleaning Data...")
+Transform.transform(csv_file)
+print("Data Cleaned")
