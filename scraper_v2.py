@@ -15,6 +15,9 @@ HEADERS = {
     "Upgrade-Insecure-Requests":"1"
 }
 
+def scrape_category(wrapper, class_name):
+    pass
+
 businesses = []
 categories_list = []
 ratings_list = []
