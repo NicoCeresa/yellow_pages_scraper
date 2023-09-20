@@ -5,6 +5,7 @@
 ## How to run
 - Download files
 - Locate `scraper_v2.py`
+- if you want all the data change the range to range(1,num_pages) in the main loop
 - Run that file
 
 ## Outputs
