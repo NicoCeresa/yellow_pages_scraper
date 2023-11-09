@@ -1,0 +1,4 @@
+#ignore some files
+scraper_v1.py
+test1.py
+transform.ipynb
